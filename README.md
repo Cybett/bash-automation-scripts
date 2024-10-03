@@ -48,7 +48,3 @@ Ensure that you have the required permissions to execute the script. You may nee
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any changes or improvements.
-
-## License
-
-This script is open-source and available under the [MIT License](LICENSE).
